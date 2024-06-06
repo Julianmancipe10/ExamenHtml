@@ -1,0 +1,84 @@
+body{
+    background-color: #F2F2F2;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.titulo-principal{
+    color: #C262AF;
+    display: flex;
+    justify-content: center;
+    
+}
+.contenido{
+    padding-left: 100px;
+    padding-right: 100px;
+    display: flex;
+    text-align: center;
+}
+
+    /* CONTENIDO UNO */
+.contenido-uno{
+    background-color: white;
+    border: 1px solid #D8CCD6;
+    
+
+}
+.contenido-uno p{
+    display: flex;
+    text-align: center;
+    width: 70%;
+    padding-left: 14%;
+}
+.contenido-uno img{ 
+    padding: 20px;
+  
+}
+
+
+    /* CONTENIDO NUMERO DO */
+.contenido-dos{
+    background-color: white;
+    margin-top: 170px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: 1px solid #D8CCD6;
+}
+.contenido-dos p{
+    display: flex;
+    text-align: center;
+    width: 70%;
+    padding-left: 14%;
+    padding-bottom: 10%;
+}
+.contenido-dos img{ 
+    padding: 20px;
+}
+
+    /* CONTENIDDO NUMERO TRES */
+
+.contenido-tres{
+    background-color: white;
+    border: 1px solid #D8CCD6;
+}
+
+.contenido-tres p{
+    display: flex;
+    text-align: center;
+    width: 70%;
+    padding-left: 14%;
+}
+.contenido-tres img{ 
+    padding: 20px;
+}
+
+    /* DIV PARRAFO FINAL */
+
+.parrafo-final{
+    margin-top: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+    display: flex;
+    justify-content: center;
+    border-top: 1px solid #C262AF;
+    color: #C262AF;
+}
+
