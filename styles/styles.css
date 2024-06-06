@@ -81,4 +81,28 @@ body{
     border-top: 1px solid #C262AF;
     color: #C262AF;
 }
-
+@media screen and (max-width:480px) {
+    .titulo-principal{
+        display: flex;
+        justify-content: center;
+        margin-right: 50px;
+    }
+    .contenido{
+        display: flex;
+        flex-direction: column;
+    }
+    .contenido-uno{
+        display: flex;
+        flex-direction: column;
+    }
+    .contenido-dos{
+        margin-top: 20px;
+        display: flex;
+        flex-direction: column;
+    }
+    .contenido-tres{
+        margin-top: 20px;
+        display: flex;
+        flex-direction: column;
+    }
+}
